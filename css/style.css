@@ -1,0 +1,23 @@
+.zyanken {
+    font-size: 64px;
+    font-family: apple color emoji,segoe ui emoji,noto color emoji,android emoji,emojisymbols,emojione mozilla,twemoji mozilla,segoe ui symbol;
+}
+
+.container{
+    width: 960px;
+    margin: auto;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.result{
+    height: 64px;
+    font-size: 48px;
+    margin: 0;
+    text-align: center;
+}
+
+.item{
+    align-items: center;
+}
